@@ -1,0 +1,15 @@
+[
+    { "title": "Wykład 1", "hour": "2018 14:17:00", "person": "Osoba 1" },
+    { "title": "Wykład 2", "hour": "2018 14:25:00", "person": "Osoba 2" },
+    { "title": "Wykład 3", "hour": "2018 14:30:00", "person": "Osoba 3" },
+    { "title": "Wykład 4", "hour": "2018 14:35:00", "person": "Osoba 4" },
+    { "title": "Wykład 5", "hour": "2018 14:40:00", "person": "Osoba 5" },
+    { "title": "Wykład 6", "hour": "2018 14:45:00", "person": "Osoba 6" },
+    { "title": "Wykład 7", "hour": "2018 14:46:00", "person": "Osoba 7" },
+    { "title": "Wykład 8", "hour": "2018 14:55:00", "person": "Osoba 8" },
+    { "title": "Wykład 9", "hour": "2018 14:00:00", "person": "Osoba 9" },
+    { "title": "Wykład 10", "hour": "2018 14:05:00", "person": "Osoba 10" }
+]
+
+
+
